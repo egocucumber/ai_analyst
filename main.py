@@ -9,7 +9,6 @@ load_dotenv()
 
 st.set_page_config(
     page_title="AI Data Analyst",
-    page_icon="📊",
     layout="wide"
 )
 
